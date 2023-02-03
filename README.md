@@ -1,7 +1,7 @@
 # 
 
 ## Model
-www.msaez.io/#/storming/293f56abf8de2d33df6afa6c9744560e
+www.msaez.io/#/courses/cna-full/public-full-2022-hw/ddd-google-drive
 
 ## Before Running Services
 ### Make sure there is a Kafka server running
