@@ -12,7 +12,7 @@ public class FileUploaded extends AbstractEvent {
 
     private Long id;
     private String name;
-    private Integer size;
+    private Long size;
     private String type;
     private Long userId;
     private Date createdTime;
