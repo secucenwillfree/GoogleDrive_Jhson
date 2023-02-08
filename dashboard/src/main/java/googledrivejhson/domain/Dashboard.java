@@ -15,7 +15,7 @@ public class Dashboard {
         //@GeneratedValue(strategy=GenerationType.AUTO)
         private Long id;
         private String fileName;
-        private Long fileSize;
+        private Integer fileSize;
         private Boolean isUploaded;
         private Boolean isIndexed;
         private String videoUrl;
