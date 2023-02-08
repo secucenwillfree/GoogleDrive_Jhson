@@ -35,7 +35,7 @@ public class File  {
     
     
     
-    private Long size;
+    private Integer size;
     
     
     
